@@ -1,0 +1,7 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://otakaegu.github.io/GKE/sitemap_index.txt
+Sitemap: https://otakaegu.github.io/YdI/sitemap_index.txt
+Sitemap: https://otakaegu.github.io/feo/sitemap_index.txt
+Sitemap: https://otakaegu.github.io/kPZ/sitemap_index.txt
